@@ -1,12 +1,14 @@
 app:
   screenshots: Screenshots
   description: Description
-  featured: Featured in
 
 footer:
   
   links:
-    - title: Github
+    - title: Github Source Code
       url: https://github.com/MouhebHamza/RapidSOS
+      target: _blank
+    - title: Report
+      url: https://drive.google.com/file/d/1bqTuytfLYgaFVsrB0ldbHqELLFs8jwZI/view?usp=sharing
       target: _blank
     
